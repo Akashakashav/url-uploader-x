@@ -21,6 +21,9 @@ heroku/python
 ```
 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Akashakashav/url-uploader-x)
+
+
 ## Credits, and Thanks to
 
 * [@TGExplore](https://t.me/ViruZs) for his [TG-URL-Uploader](https://github.com/TGExplore/TG-URL-Uploader)
